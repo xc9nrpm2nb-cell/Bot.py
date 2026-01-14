@@ -38,4 +38,4 @@ async def on_message(message):
 async def ping(ctx):
     await ctx.send('pong! 🏓')
 
-bot.run(MTQ0ODYwNDE4MTAyNzA5NDU2OQ.GHoMlw.Yjd6jP5wwoQiPN2CevU_yWxUAuvWg1_Xl7Tz-M)
+bot.run(MTQ0ODYwNDE4MTAyNzA5NDU2OQ.Gcv1VK.5gX1oTyas8oVuHaLqbe0pSuKyKassyA-tM666I)
